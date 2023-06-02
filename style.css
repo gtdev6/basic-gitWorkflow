@@ -4,6 +4,10 @@ body {
 	padding: 40px;
 }
 
-.header{
+#header{
 	font-weight: 500;
+}
+
+.hidden{
+	display: none;
 }
